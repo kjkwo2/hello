@@ -1,1 +1,6 @@
-Kelvin: Hey, How's it going
+Kelvin: Hey, How's it going. My Name is Kelvin and I'm an avid gamer. I also like to create content and learn sleight of hand illusion. In the past
+	I have learnt self defence and am decently experienced in the art of stick fighting. In the past I can play 10 popular songs on the piano but have 
+	recently slacked off and forgot some of the songs. Music is a part of my life as this is where I stay motivated and get the most inspiration to 
+	keep working. Currently I'm studying software engineering and due to time constraints, I am limited to persue creating content as a side hobby, 
+	and entertain individuals in my generation.
+Isaac: League?
